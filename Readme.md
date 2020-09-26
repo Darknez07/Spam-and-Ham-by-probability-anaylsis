@@ -1,5 +1,5 @@
 # Vocab with corpus probablity
-	# This uses two most important things:-
+### This uses two most important things:-
 1 The probability of  word occuring in the corpus(After removing the stopwords and other things)<br />
 2 The model which takes the probability from the new testing Set<br />
 	<h2> Now for each testing text file</h2>
